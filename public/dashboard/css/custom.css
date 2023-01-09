@@ -1,0 +1,40 @@
+body {
+    background-color: #bdd1ff;
+}
+
+
+/* .customCard {
+    border: .0625rem solid #c5c5c5!important;
+    -webkit-border-radius: 50px;
+    border-radius: 10px;
+    background: #d1d8ec60;
+    -webkit-box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
+    box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
+} */
+
+.card {
+    border-radius: 12px;
+    background: #bdd1ff;
+    box-shadow: 5px 5px 10px #a1b2d9, -5px -5px 10px #d9f0ff;
+}
+
+.bg-color {
+    background-color: #bdd1ff;
+}
+
+
+/* sweet alert */
+
+.swal-height {
+    height: 80vh;
+}
+
+.swal-title {
+    background-color: #FEFAE3;
+    padding: 17px;
+    border: 1px solid #F0E1A1;
+    display: block;
+    margin: 22px;
+    text-align: center;
+    color: #61534e;
+}
